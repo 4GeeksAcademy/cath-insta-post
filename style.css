@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+}
+
+.post {
+    width: 450px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.header {
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-header {
+    justify-content: left;
+
+}
+
+.right-header {
+    justify-content: right;
+    
+}
+
+.image img {
+    width: 100%;
+}
+
+.footer {
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer i {
+    font-size: 30px;
+}
+
+.left-footer {
+    justify-content: left;
+
+}
+
+.right-footer {
+    justify-content: right;
+    
+}
+
+.text {
+    padding: 10px 10px 10px 10px;
+}
